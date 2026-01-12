@@ -79,7 +79,7 @@ LEFT JOIN customers AS c
 ON c.id = o.customer_id
 
 -- FULL JOIN
-/* Get all customers and all orders, even if there’s no match */
+/* Get all customers and all orders, even if thereâ€™s no match */
 SELECT
     c.id,
     c.first_name,
