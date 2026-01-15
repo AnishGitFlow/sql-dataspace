@@ -1,3 +1,5 @@
+-- Day 01
+
 create table icc_world_cup
 (
 Team_1 Varchar(20),
